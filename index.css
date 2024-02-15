@@ -2,3 +2,28 @@ body {
     background-color: black;
     color: white;
 }
+
+/* div = its a box like text that fits the text you want in limited area. Basically it holds text in a box */
+
+div
+{
+color: white;
+}
+
+/* span =  */
+.brownie
+{
+    padding-top: 100px;
+}
+.lasagna
+{
+    padding-left: 45px;
+}
+.cupcake
+{
+    padding-left: 45px;
+}
+.recipe
+{
+    padding-top: 500;
+}
